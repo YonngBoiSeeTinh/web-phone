@@ -1,0 +1,8 @@
+.admin-layout{
+    width: 100%;
+    display: flex;
+}
+.admin-content{
+    width: 80%;
+    float: right;
+}

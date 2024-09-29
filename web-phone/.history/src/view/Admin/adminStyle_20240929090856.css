@@ -1,0 +1,9 @@
+.admin-layout{
+    width: 100%;
+    display: flex;
+}
+.admin-content{
+    width: 80%;
+    position: fixed; /* Giữ sidebar cố định bên trái */
+    margin-left: 250px;
+}

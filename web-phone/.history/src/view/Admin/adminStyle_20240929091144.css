@@ -1,0 +1,9 @@
+.admin-layout{
+    width: 100%;
+    display: flex;
+}
+.main-content{
+    width: 90%;
+   margin-left: 280px;
+  
+}
