@@ -1,0 +1,15 @@
+.admin-layout{
+    display: flex;
+}
+.main-content{
+
+height: 100%;
+}
+.notify{
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
